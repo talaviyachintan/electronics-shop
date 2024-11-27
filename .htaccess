@@ -6,7 +6,7 @@ RewriteEngine On
 RewriteBase /ecommerce-site/
 
 #RewriteCond %{HTTP_HOST} !^www\.
-#RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/ecommerce-site/$1 [L]
+RewriteRule ^(.*)$ https://github.com/talaviyachintan/electronics-shop.git/$1 [L]
 
 RewriteRule ^home$  inc-index.php [L]
 RewriteRule ^about$  inc-about.php [L]
