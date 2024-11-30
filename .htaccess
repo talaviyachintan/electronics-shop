@@ -8,7 +8,7 @@ RewriteBase /ecommerce-site/
 #RewriteCond %{HTTP_HOST} !^www\.
 RewriteRule ^(.*)$ https://github.com/talaviyachintan/electronics-shop.git/$1 [L]
 
-RewriteRule ^home$  inc-index.php [L]
+#RewriteRule ^index$  inc-index.php [L]
 RewriteRule ^about$  inc-about.php [L]
 RewriteRule ^account$  inc-account.php [L]
 RewriteRule ^blog$  inc-blog.php [L]
