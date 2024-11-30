@@ -37,7 +37,7 @@
                 <h1 class="entry_title">3 Columns</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
-                      <li class="breadcrumb-item"><a href="home"><i class="fa-solid fa-house"></i></a></li>
+                      <li class="breadcrumb-item"><a href="./"><i class="fa-solid fa-house"></i></a></li>
                       <li class="breadcrumb-item active text-underline" aria-current="page">Gallery</li>
                       <!-- <li class="breadcrumb-item active" aria-current="page">3 Columns</li> -->
                     </ol>

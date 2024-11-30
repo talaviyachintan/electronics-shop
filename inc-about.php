@@ -20,7 +20,7 @@
                 <h1 class="entry_title">About Us</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
-                      <li class="breadcrumb-item"><a href="home"><i class="fa-solid fa-house"></i></a></li>
+                      <li class="breadcrumb-item"><a href="./"><i class="fa-solid fa-house"></i></a></li>
                       <li class="breadcrumb-item active" aria-current="page">About Us</li>
                     </ol>
                 </nav>

@@ -24,7 +24,7 @@
     <!-- start logo header -->
     <nav class="navbar navbar-expand-xl logo_header p-0" aria-label="Seventh navbar example">
         <div class="container-fluid d-flex flex-wrap">
-            <a class="navbar-brand" href="home">
+            <a class="navbar-brand" href="./">
                 <img src="img/logo.png" alt="">
             </a>
             <button class="navbar-toggler collapsed bars_btn border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExampleXxl" aria-controls="navbarsExampleXxl" aria-expanded="false" aria-label="Toggle navigation">
@@ -33,7 +33,7 @@
             <div class="navbar-collapse collapse main_menubg" id="navbarsExampleXxl">
                 <ul class="main_menu navbar-nav me-auto mb-2 mb-xl-0">
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="home">Home</a>
+                        <a class="nav-link" aria-current="page" href="./">Home</a>
                     </li>
                     <li class="nav-item position-relative dropdown">
                         <a class="nav-link  dropdown-toggle" href="javascript:void(0)" data-bs-toggle="dropdown">Shop</a>
